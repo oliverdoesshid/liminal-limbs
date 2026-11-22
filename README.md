@@ -6,7 +6,7 @@ Download the latest standalone Quest 3 build from the **Releases** page.
 
 - Latest release: **v1.0.1**
 - APK: `LiminalLimbs-Quest3-v1.0.1.apk`
-- SHA-256: `b51c8d3b0970bd98f2450b6a267f1ff5ec297d480454fae749692e51fb35ae2f`
+- SHA-256: `dd5e1410a966e911a2746b1495fe8ea5939f1f3ae2bdbb02e65b66a28b2fe052`
 - Package: `com.effectcraft.liminallimbs`
 - Architecture: ARM64
 - Minimum Android SDK: 29
