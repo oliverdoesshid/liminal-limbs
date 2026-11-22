@@ -7,7 +7,6 @@ Download the latest standalone Quest 3 build from the **Releases** page.
 - Latest release: **v1.0.1**
 - APK: `LiminalLimbs-Quest3-v1.0.1.apk`
 - SHA-256: `dd5e1410a966e911a2746b1495fe8ea5939f1f3ae2bdbb02e65b66a28b2fe052`
-- Package: `com.effectcraft.liminallimbs`
 - Architecture: ARM64
 - Minimum Android SDK: 29
 - Target Android SDK: 34
@@ -51,5 +50,5 @@ MIT-licensed GorillaLocomotion project. The required notice is in
 
 ## Copyright
 
-Copyright © 2026 EffectCraft. All rights reserved. No permission is granted to copy,
+Copyright © 2026 Liminal Limbs. All rights reserved. No permission is granted to copy,
 modify, redistribute, or reuse the proprietary game source or assets.
